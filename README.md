@@ -4,7 +4,7 @@ A real-time chat application built with the MERN stack — MongoDB, Express.js, 
 
 ## Highlights:
 
-- 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
+- 🌟 Tech stack: MERN + Socket.io + Zustand + TailwindCSS + Daisy UI
 - 🎃 Authentication && Authorization with JWT
 - 👾 Real-time messaging with Socket.io
 - 🚀 Online user status
